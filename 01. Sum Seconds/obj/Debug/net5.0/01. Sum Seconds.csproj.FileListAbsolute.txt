@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\bin\Debug\net5.0\01. Sum Seconds.exe
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\bin\Debug\net5.0\01. Sum Seconds.deps.json
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\bin\Debug\net5.0\01. Sum Seconds.runtimeconfig.json
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\bin\Debug\net5.0\01. Sum Seconds.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\bin\Debug\net5.0\01. Sum Seconds.dll
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\bin\Debug\net5.0\ref\01. Sum Seconds.dll
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\bin\Debug\net5.0\01. Sum Seconds.pdb
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.dll
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\obj\Debug\net5.0\ref\01. Sum Seconds.dll
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.pdb
+C:\Users\maxib\source\repos\Conditional statements\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.genruntimeconfig.cache

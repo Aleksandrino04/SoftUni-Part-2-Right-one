@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\bin\Debug\net5.0\01)ExcellentResult.exe
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\bin\Debug\net5.0\01)ExcellentResult.deps.json
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\bin\Debug\net5.0\01)ExcellentResult.runtimeconfig.json
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\bin\Debug\net5.0\01)ExcellentResult.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\bin\Debug\net5.0\01)ExcellentResult.dll
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\bin\Debug\net5.0\ref\01)ExcellentResult.dll
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\bin\Debug\net5.0\01)ExcellentResult.pdb
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\obj\Debug\net5.0\01)ExcellentResult.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\obj\Debug\net5.0\01)ExcellentResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\obj\Debug\net5.0\01)ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\obj\Debug\net5.0\01)ExcellentResult.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\obj\Debug\net5.0\01)ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\obj\Debug\net5.0\01)ExcellentResult.dll
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\obj\Debug\net5.0\ref\01)ExcellentResult.dll
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\obj\Debug\net5.0\01)ExcellentResult.pdb
+C:\Users\maxib\source\repos\Conditional statements\01)ExcellentResult\obj\Debug\net5.0\01)ExcellentResult.genruntimeconfig.cache

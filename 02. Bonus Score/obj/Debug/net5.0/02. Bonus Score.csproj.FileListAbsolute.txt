@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\bin\Debug\net5.0\02. Bonus Score.exe
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\bin\Debug\net5.0\02. Bonus Score.deps.json
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\bin\Debug\net5.0\02. Bonus Score.runtimeconfig.json
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\bin\Debug\net5.0\02. Bonus Score.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\bin\Debug\net5.0\02. Bonus Score.dll
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\bin\Debug\net5.0\ref\02. Bonus Score.dll
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\bin\Debug\net5.0\02. Bonus Score.pdb
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.dll
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\obj\Debug\net5.0\ref\02. Bonus Score.dll
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.pdb
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.genruntimeconfig.cache
+C:\Users\maxib\source\repos\Conditional statements\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.csproj.AssemblyReference.cache
